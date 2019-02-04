@@ -30,31 +30,31 @@ ul li {
 }
 
 ul li:nth-child(1){
-  background: red;
+  background: url(autumn-colorful-colourful-33109.jpg);
   background-size: cover;
   background-position: left;
 }
 
 ul li:nth-child(2){
-  background: blue;
+  background: url(beach-clouds-daytime-994605.jpg);
   background-size: cover;
   background-position: left;
 }
 
 ul li:nth-child(3){
-  background: black;
+  background: url(clouds-conifer-daylight-371589.jpg);
   background-size: cover;
   background-position: left;
 }
 
 ul li:nth-child(4){
-  background: grey;
+  background: url(forest-haze-hd-wallpaper-39811.jpg);
   background-size: cover;
   background-position: left;
 }
 
 ul li:nth-child(5){
-  background: green;
+  background: url(forest-hd-wallpaper-landscape-129105.jpg);
   background-size: cover;
   background-position: left;
 }
